@@ -1,5 +1,5 @@
 # Name Entity Recognition in Healthcare Data
-> Use CRF to build a model to identify entities(disease name and its probable treatment) from a data set in which a lot of text is written related to the medical domain. There are a lot of diseases that can be mentioned in the entire dataset and their related treatments are also mentioned implicitly in the text and list it out in the form of a table or a dictionary that can be used to 
+> Use CRF to build a model to identify entities(disease name and its probable treatment) from a data set in which a lot of text is written related to the medical domain. There are a lot of diseases that can be mentioned in the entire dataset and their related treatments are also mentioned implicitly in the text and list it out in the form of a table or a dictionary that can be used to to map the diseases and their respective treatment.
 
 
 ## Table of Contents
